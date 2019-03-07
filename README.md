@@ -6,7 +6,7 @@ https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch
 
 ### Functions used as example data:
 
-![Our example function](images/Examples_Function.PNG)
+![Our example function](images/Examples_Function.png)
 
 ### MatPlotLib graph depicting the Y values of both the actual Y values and the prediction generated from the neural network.
 
